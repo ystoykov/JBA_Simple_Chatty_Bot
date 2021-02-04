@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Simple_Chatty_Bot.Problems-Decompose_a_math_function.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Simple_Chatty_Bot.Problems-Decompose_a_math_function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Simple_Chatty_Bot.Problems-Decompose_a_math_function.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Simple_Chatty_Bot.Problems-Decompose_a_math_function.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Simple_Chatty_Bot.Problems-Decompose_a_math_function.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Simple_Chatty_Bot.Problems-Decompose_a_math_function.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the max of three numbers/Simple_Chatty_Bot.Problems-Find_the_max_of_three_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the max of three numbers/Simple_Chatty_Bot.Problems-Find_the_max_of_three_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the max of three numbers/Simple_Chatty_Bot.Problems-Find_the_max_of_three_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the max of three numbers/Simple_Chatty_Bot.Problems-Find_the_max_of_three_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the max of three numbers/Simple_Chatty_Bot.Problems-Find_the_max_of_three_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the max of three numbers/Simple_Chatty_Bot.Problems-Find_the_max_of_three_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java_/Simple_Chatty_Bot.Problems-Print__Hello,_Java_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java_/Simple_Chatty_Bot.Problems-Print__Hello,_Java_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java_/Simple_Chatty_Bot.Problems-Print__Hello,_Java_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java_/Simple_Chatty_Bot.Problems-Print__Hello,_Java_.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java_/Simple_Chatty_Bot.Problems-Print__Hello,_Java_.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java_/Simple_Chatty_Bot.Problems-Print__Hello,_Java_.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Simple_Chatty_Bot.Problems-Right_Rotation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Simple_Chatty_Bot.Problems-Right_Rotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Simple_Chatty_Bot.Problems-Right_Rotation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Simple_Chatty_Bot.Problems-Right_Rotation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Simple_Chatty_Bot.Problems-Right_Rotation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Simple_Chatty_Bot.Problems-Right_Rotation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/Simple_Chatty_Bot.Problems-Test_learners.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Simple_Chatty_Bot.Problems-Test_learners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/Simple_Chatty_Bot.Problems-Test_learners.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Simple_Chatty_Bot.Problems-Test_learners.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/Simple_Chatty_Bot.Problems-Test_learners.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Simple_Chatty_Bot.Problems-Test_learners.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.test.iml" />
+    </modules>
+  </component>
+</project>
